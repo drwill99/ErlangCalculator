@@ -1,6 +1,6 @@
 # Overview
 
-As a software engineer, I'm constantly exploring new programming languages and technologies to broaden my skills and knowledge. This project aims to demonstrate my proficiency in Erlang by implementing a simple interactive calculator.
+As someone interested in computer science and programming, I'm constantly exploring new programming languages and technologies to broaden my skills and knowledge. This project aims to demonstrate my proficiency in Erlang by implementing a simple interactive calculator.
 
 The Erlang Calculator allows users to perform basic arithmetic operations on a running total, including addition, subtraction, multiplication, division, exponentiation, displaying the current total, and clearing the total.
 
