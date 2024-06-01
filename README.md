@@ -1,26 +1,22 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a software engineer, I'm constantly exploring new programming languages and technologies to broaden my skills and knowledge. This project aims to demonstrate my proficiency in Erlang by implementing a simple interactive calculator.
 
-{Provide a description for the software that you wrote to demonstrate the Erlang language.}
-
-{Describe your purpose for writing this software.}
+The Erlang Calculator allows users to perform basic arithmetic operations on a running total, including addition, subtraction, multiplication, division, exponentiation, displaying the current total, and clearing the total.
 
 [Software Demo Video](https://youtu.be/jSigRegGgZY)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I developed this software using Erlang OTP (Open Telecom Platform), which provides a robust framework for building distributed, fault-tolerant applications. The code was written and tested in a Linux environment using the Erlang shell for interactive development.
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Erlang Official Website](https://www.erlang.org/)
+* [Erlang Documentation](https://erlang.org/doc/)
 
 # Future Work
 
-* Item 1
-* Item 2
-* Item 3
+* Improve user interface and error handling for better user experience.
+* Add support for more advanced mathematical functions.
+* Explore distributed computing capabilities of Erlang for scalable applications.
